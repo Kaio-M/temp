@@ -1,0 +1,77 @@
+--> Togle de botões
+Fonte tamanho:
+Cor da borda: laranja-itau
+Ativo:
+  fundo: laranja-itau;
+  texto: branco
+Inativo:
+  fundo: branco;
+  texto: preto
+Botões do bootstrap
+Dimensões:
+Espaçamento:
+
+--> Input beneficiário
+angular-material
+texto vermelho enquanto não bate com a máscara (invalid)
+texto verde quando valid
+asterisco de campo obrigatório
+largura da div:
+espaçamento até o proximo campo
+
+--> Input competência
+não permite digitar input
+linha pontilhada
+asterisco de campo obrigatório
+icone de datepicker clicável
+largura da div:
+
+--> Modal competência
+inicia com ano, em seguida, mês
+desaparece após preenchido
+datepicker grande
+
+--> Botão consultar da busca
+bootsrap
+ativo
+  fundo: azul-itau
+  texto: braco em caixa alta
+inativo
+  fundo: 
+  texto: 
+  
+--> Grid
+> Coluna de status
+  de-para cores de status:
+  
+  largura do indicador de estatus: px fixa
+  fonte:
+  mini modal on-hover:
+    somente quando o texto está truncado;
+    fonte:
+    tamanho:
+    
+> Coluna de ação (dropdown)
+cor fundo: azul-itau
+cor texto: branco
+dropdown selecioando: fundo: cinza (...)
+botões dentro do dropdown:
+  - boão on-hover: azul-itau; texto branco
+  - sem hover: fundo branco; texto cinza (material?)
+
+> Barras de rolagem:
+> Altura do grid:
+> Colunas fixadas na rolagem horizontal:
+  - coluna checkbox
+
+--> Card com o nome da página
+cor fundo: azul-itau
+cor texto: branco
+
+--> Texto do formulário de filtro
+
+--> 
+-->
+-->
+-->
+-->

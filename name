@@ -64,6 +64,18 @@ botões dentro do dropdown:
 > Colunas fixadas na rolagem horizontal:
   - coluna checkbox
 
+--> Dropdown com checkboxes para filtros de 2 opções
+--> Seleção de multiplos produtos
+Dropdown com checkboxes e função de pesquisa
+--> Seleção de multiplas siglas
+Modal escurece a tela de fundo
+Linha divide o título do modal e os múltiplos botões abaixo
+Linha divisória
+Botão confirmar
+Todos os botões: azul-itau
+Siglas selecionadas: laranja-itau
+Icone de x para fechar o modal: canto superior direito
+
 --> Card com o nome da página
 cor fundo: azul-itau
 cor texto: branco
